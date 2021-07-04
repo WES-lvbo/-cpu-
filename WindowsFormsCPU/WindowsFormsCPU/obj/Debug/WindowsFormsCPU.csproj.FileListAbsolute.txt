@@ -1,0 +1,10 @@
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\bin\Debug\WindowsFormsCPU.exe.config
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\bin\Debug\WindowsFormsCPU.exe
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\bin\Debug\WindowsFormsCPU.pdb
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.csprojAssemblyReference.cache
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.Form1.resources
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.Properties.Resources.resources
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.csproj.GenerateResource.cache
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.csproj.CoreCompileInputs.cache
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.exe
+C:\Users\吕博\Desktop\cpu\WindowsFormsCPU\WindowsFormsCPU\obj\Debug\WindowsFormsCPU.pdb
